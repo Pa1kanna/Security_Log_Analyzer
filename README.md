@@ -17,6 +17,3 @@ Ensure that your target log file is named `server.log` and is placed in the same
 # Run the analyzer
 python3 log_parser.py
 
-
-## Expected Output:
-The script will output the number of discovered threats to the console and generate a failed_logins.csv file containing the extracted IP addresses and usernames.
