@@ -4,3 +4,4 @@ May 10 08:14:15 server sshd[1245]: Failed password for invalid user root from 20
 May 10 08:15:01 server sshd[1250]: Connection closed by 192.168.1.50
 May 10 08:18:22 server sshd[1260]: Failed password for jsmith from 198.51.100.22 port 5011
 May 10 08:20:05 server sshd[1265]: Accepted password for dbadmin from 10.0.0.15 port 22
+
